@@ -41,14 +41,18 @@
     "Python.exercicio 2.executor": "Run",
     "Python.exercicio 3.executor": "Run",
     "Python.exercicio 4.executor": "Run",
+    "Python.exercicio.executor": "Run",
+    "Python.exercicio2.executor": "Run",
+    "Python.exercicio3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/aluno/Documents/python/desktop.ini",
+    "last_opened_file_path": "C:/Users/aluno/Documents/python",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\aluno\Documents\python\pythonProject\Capitulo 3" />
       <recent name="C:\Users\aluno\Documents\python\pythonProject" />
       <recent name="C:\Users\aluno\Documents\python" />
     </key>
