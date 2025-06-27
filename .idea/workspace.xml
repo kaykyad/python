@@ -8,6 +8,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/Capitulo 3/lista de exercicio/exercicio1.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +45,9 @@
     "Python.exercicio.executor": "Run",
     "Python.exercicio2.executor": "Run",
     "Python.exercicio3.executor": "Run",
+    "Python.exercicio5.executor": "Run",
+    "Python.exercicio6.executor": "Run",
+    "Python.exercicio7.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/aluno/Documents/python",
@@ -52,6 +56,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\aluno\Documents\python\pythonProject\Capitulo 3\lista de exercicio" />
       <recent name="C:\Users\aluno\Documents\python\pythonProject\Capitulo 3" />
       <recent name="C:\Users\aluno\Documents\python\pythonProject" />
       <recent name="C:\Users\aluno\Documents\python" />
