@@ -1,21 +1,27 @@
-def todasIdades(idade1, idade2, idade3, idade4, idade5):
-    if(idade1 <= 21):
-            print("Sua", idade1, "é igual a", todasIdades)
-    if (idade2 <= 21):
-            print("Sua", idade2, "é igual a", todasIdades)
-    if (idade3 <= 21):
-            print("Sua", idade3, "é igual a", todasIdades)
-     if (idade4 <= 21):
-            print("Sua", idade4, "é igual a", todasIdades)
-     if (idade5 <= 21):
-            print("Sua", idade5, "é igual a", todasIdades)
+# Faça um algoritmo que leia a idade de 5 pessoas
+# e escreva quantas delas possuem idades iguais a 21 anos
+def verificaIdade21(idade1, idade2, idade3, idade4, idade5):
+    contaIdade = 0
 
+    if(idade1 == 21):
+        contaIdade +=1
+    if (idade2 == 21):
+        contaIdade += 1
+    if (idade3 == 21):
+        contaIdade += 1
+    if (idade4 == 21):
+        contaIdade += 1
+    if (idade5 == 21):
+        contaIdade += 1
 
+    print(f"O numero de idades iguais a 21 são de {contaIdade}")
+def main():
+    idade1 = int(input("Digite a primeira idade: "))
+    idade2 = int(input("Digite a segunda idade: "))
+    idade3 = int(input("Digite a terceira idade: "))
+    idade4 = int(input("Digite a quarta idade: "))
+    idade5 = int(input("Digite a quinta idade: "))
 
-idade1 = int(input("Escreva a Primeira idade"))
-idade2 = int(input("Escreva a Primeira idade"))
-idade3 = int(input("Escreva a Primeira idade"))
-idade4 = int(input("Escreva a Primeira idade"))
-idade5 = int(input("Escreva a Primeira idade"))
-
-todasIdades(idade1, idade2, idade3, idade4, idade5)
+    verificaIdade21(idade1, idade2, idade3, idade4, idade5)
+if __name__ == "__main__":
+    main()
