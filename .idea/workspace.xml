@@ -6,9 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5bad886d-310f-4c56-bfc9-6acc64e5ca22" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonProject/Capitulo 5/estruturas de decisão/exercicio 3.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonProject/Capitulo 5/estruturas de decisão/exercicio 3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonProject/Capitulo 5/estruturas de decisão/exercicio 4.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonProject/Capitulo 5/estruturas de decisão/exercicio 4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonProject/Capitulo 5/estruturas de decisão/exercicio 5.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonProject/Capitulo 5/estruturas de decisão/exercicio 5.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,39 +30,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.correção exercicio 4.executor": "Run",
-    "Python.exemplo2operadoresaritimeticos.executor": "Run",
-    "Python.exemplo3.executor": "Run",
-    "Python.exemplo4.executor": "Run",
-    "Python.exemplo5.executor": "Run",
-    "Python.exemplo5operacoesstrings.executor": "Run",
-    "Python.exercicio 1-lista.executor": "Run",
-    "Python.exercicio 1.executor": "Run",
-    "Python.exercicio 2.executor": "Run",
-    "Python.exercicio 3.executor": "Run",
-    "Python.exercicio 4.executor": "Run",
-    "Python.exercicio 5.executor": "Run",
-    "Python.exercicio.executor": "Run",
-    "Python.exercicio2.executor": "Run",
-    "Python.exercicio3.executor": "Run",
-    "Python.exercicio5.executor": "Run",
-    "Python.exercicio6.executor": "Run",
-    "Python.exercicio7.executor": "Run",
-    "Python.exercicios.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/aluno/Documents/python",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.correção exercicio 4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exemplo2operadoresaritimeticos.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exemplo3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exemplo4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exemplo5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exemplo5operacoesstrings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicio 1-lista.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicio 1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicio 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicio 3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicio 4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicio 5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicio.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicio2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicio3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicio5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicio6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicio7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicios.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/aluno/Documents/python&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\aluno\Documents\python\pythonProject\Capitulo 3\lista de exercicio" />
-      <recent name="C:\Users\aluno\Documents\python\pythonProject\Capitulo 3" />
       <recent name="C:\Users\aluno\Documents\python\pythonProject" />
       <recent name="C:\Users\aluno\Documents\python" />
+      <recent name="C:\Users\aluno\Documents\python\pythonProject\Capitulo 3\lista de exercicio" />
+      <recent name="C:\Users\aluno\Documents\python\pythonProject\Capitulo 3" />
     </key>
   </component>
   <component name="RunManager">
