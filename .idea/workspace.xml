@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5bad886d-310f-4c56-bfc9-6acc64e5ca22" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pythonProject/Capitulo 5/estruturas de decisão/exercicio 6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonProject/Capitulo 5/estruturas de decisão/exercicio 7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonProject/Capitulo 5/estruturas de decisão/exercicio 8.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/Capitulo 5/estruturas de decisão/exercicio 8.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonProject/Capitulo 5/estruturas de decisão/exercicio 8.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,38 +31,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.correção exercicio 4.executor": "Run",
-    "Python.exemplo2operadoresaritimeticos.executor": "Run",
-    "Python.exemplo3.executor": "Run",
-    "Python.exemplo4.executor": "Run",
-    "Python.exemplo5.executor": "Run",
-    "Python.exemplo5operacoesstrings.executor": "Run",
-    "Python.exercicio 1-lista.executor": "Run",
-    "Python.exercicio 1.executor": "Run",
-    "Python.exercicio 10.executor": "Run",
-    "Python.exercicio 2.executor": "Run",
-    "Python.exercicio 3.executor": "Run",
-    "Python.exercicio 4.executor": "Run",
-    "Python.exercicio 5.executor": "Run",
-    "Python.exercicio 6.executor": "Run",
-    "Python.exercicio 7.executor": "Run",
-    "Python.exercicio 8.executor": "Run",
-    "Python.exercicio 9.executor": "Run",
-    "Python.exercicio.executor": "Run",
-    "Python.exercicio2.executor": "Run",
-    "Python.exercicio3.executor": "Run",
-    "Python.exercicio5.executor": "Run",
-    "Python.exercicio6.executor": "Run",
-    "Python.exercicio7.executor": "Run",
-    "Python.exercicios.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/aluno/Documents/python",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.correção exercicio 4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exemplo2operadoresaritimeticos.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exemplo3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exemplo4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exemplo5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exemplo5operacoesstrings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicio 1-lista.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicio 1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicio 10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicio 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicio 3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicio 4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicio 5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicio 6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicio 7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicio 8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicio 9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicio.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicio1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicio2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicio3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicio5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicio6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicio7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicios.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/aluno/Documents/python&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\aluno\Documents\python\pythonProject" />
@@ -129,12 +128,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="Python 3.12 (pythonProject)" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonProject/Capitulo2/lista" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ativd12" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonProject/Capitulo2/lista/exercicio 2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ativd12/exercicio 2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -229,16 +227,5 @@
       <updated>1747397789189</updated>
     </task>
     <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/pythonProject/Capitulo 5/estruturas de decisão/exercicio 8.py</url>
-          <line>13</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

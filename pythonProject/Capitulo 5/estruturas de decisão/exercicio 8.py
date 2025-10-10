@@ -5,7 +5,7 @@ def divisaoPorDois (numero):
         print(f"O {numero} não pode ser dividido por 2")
 
 def divisaoPorTres(numero):
-    if numero % 2 == 0:
+    if numero % 3 == 0:
         print(f"O {numero} pode ser dividido por 3")
     else:
         print(f"O {numero} não pode ser dividido por 3")
